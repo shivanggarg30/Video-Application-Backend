@@ -29,5 +29,5 @@ import { v2 as cloudinary } from 'cloudinary';
         }
     }
 
-    uploadOnCloudinary();
+ export  {uploadOnCloudinary};
 
